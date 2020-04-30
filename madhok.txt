@@ -1,0 +1,53 @@
+;Properties
+Title: 
+author: 
+Description: 
+;Marker Table
+start_marker_table
+00:00:00.0 Introduction
+00:02:26.3 Terrain & Climate
+00:03:42.1 Advantages: Drones
+00:04:54.2 Border & Coastal Areas
+00:05:39.2 System of Systems
+00:05:57.1 Tethered Drones
+00:07:35.6 Tasks...
+00:08:00.9 Aerial Mesh Capabilities
+00:08:18.1 Anti Anti Drone 		
+00:10:55.6 Functionalities for C-UAS Include 
+00:11:44.5 National and Local Drone
+00:12:44.6 Characteristics of a Good Anti System
+00:14:05.6 A Challenge
+end_marker_table
+
+;Script Commands
+start_script_table
+00:00:00.0 slide slide001.htm
+00:00:02.1 slide slide002.htm
+00:00:34.2 slide slide003.htm
+00:01:29.5 slide slide004.htm
+00:02:26.3 slide slide005.htm
+00:02:35.3 slide slide006.htm
+00:03:42.1 slide slide007.htm
+00:04:54.2 slide slide008.htm
+00:05:39.2 slide slide009.htm
+00:05:57.1 slide slide010.htm
+00:06:19.2 slide slide011.htm
+00:06:40.6 slide slide012.htm
+00:07:35.6 slide slide013.htm
+00:08:00.9 slide slide014.htm
+00:08:18.1 slide slide015.htm
+00:08:42.3 slide slide016.htm
+00:09:27.2 slide slide017.htm
+00:10:12.1 slide slide018.htm
+00:10:55.6 slide slide019.htm
+00:11:44.5 slide slide020.htm
+00:11:53.5 slide slide021.htm
+00:12:44.6 slide slide022.htm
+00:13:26.9 slide slide023.htm
+00:14:05.6 slide slide024.htm
+00:16:42.4 slide slide027.htm
+00:16:49.6 slide slide028.htm
+00:16:51.3 slide slide029.htm
+00:16:52.7 slide slide030.htm
+00:16:53.8 slide slide031.htm
+end_script_table
