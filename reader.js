@@ -42,7 +42,7 @@ const server = http.createServer(function(req, res) {
 			arr.push(scObj);
 		}
 	});
-	fs.writeFileSync(__dirname+'/output.json', JSON.stringify(arr, null, 2) + '\n');
+	fs.writeFile(__dirname+'/output.json', JSON.stringify(arr, null, 2) + '\n');
 });
 
 server.listen(3000);
